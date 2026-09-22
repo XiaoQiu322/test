@@ -1,6 +1,4 @@
-name: My First CI
-
-oname: My First CI/CD
+name: My First CI/CD
 
 on:
   push:
